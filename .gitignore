@@ -1,3 +1,4 @@
 
 RLTensorflow.ipynb
 model_weights.pth
+*.pth
